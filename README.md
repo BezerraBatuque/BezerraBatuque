@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BezerraBatuque
 - 👀 I’m interested in: Dominar linguagens de programação mais populares
-- 🌱 I’m currently learning: Java Script ; Arduino ; C# ; 
+- 🌱 I’m currently learning: Python ; Arduino ; C# ; 
 - 📫 How to reach me: ig @bezerra_filipe tt @FilipeB49239898
